@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5540575918570510677
+--- !u!114 &-3355032676713116091
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33,17 +33,17 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   EditorBanks:
-  - {fileID: -5540575918570510677}
-  - {fileID: 3875668263147982675}
+  - {fileID: -3355032676713116091}
+  - {fileID: 1054619125921721549}
   EditorEvents: []
   EditorParameters: []
   MasterBanks:
-  - {fileID: 3875668263147982675}
+  - {fileID: 1054619125921721549}
   StringsBanks:
-  - {fileID: -5540575918570510677}
+  - {fileID: -3355032676713116091}
   stringsBankWriteTime: 637380193250235036
   cacheVersion: 5
---- !u!114 &3875668263147982675
+--- !u!114 &1054619125921721549
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

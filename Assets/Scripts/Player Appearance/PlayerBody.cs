@@ -53,7 +53,7 @@ public class PlayerBody : MonoBehaviour
         playerAnimator.SetBool("UnderIntentionalForce", controller.intentionalForce);
         playerSpriteAlpha = renderer_.color.a;
     }
-    
+
     void OnDestroy() {
         MessageBroker.Instance.PlayerDeathTopic -= consumePDMessage;
     }
